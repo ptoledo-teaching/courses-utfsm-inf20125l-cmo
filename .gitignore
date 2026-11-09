@@ -1,0 +1,8 @@
+workspace/code/*.o
+workspace/code/*.a
+workspace/code/imperial_nav
+workspace/code/imperial_nav_static
+workspace/code/enlace_incompleto
+workspace/tests/*.out
+workspace/tests/*.err
+workspace/tests/*.diff
